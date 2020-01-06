@@ -46,7 +46,7 @@ experts, lab hours are held Fridays 9:00 - 10:50 in the CSE Basement
 
 ## Syllabus
 
-The syllabus for the course may be found [here](https://github.com/afraenkel/DSC180A-DS-Methodology/syllabus.md).
+The syllabus for the course may be found [here](syllabus.md).
 
 ## Course Schedule
 
