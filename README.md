@@ -9,7 +9,7 @@ The course materials for each domain of inquiry is maintained by the
 domain expert. Links to materials for each domain *may* be found
 below, otherwise contact the section leader for your domain of choice.
 
-* Wikipedia Edit Wars (Roberts)
+* [Wikipedia Edit Wars](https://docs.google.com/document/d/15nYvHeiXmq4yWQIaKaWv7Ucx_u1Jbp3FGpN9ku68r88/edit?usp=sharing) (Roberts)
 * Quantitative Measure of Artistic Style (Twomey)
 * [Fair Policing and Predictive Policing](https://github.com/afraenkel/DSC180A-Fair-Policing) (Fraenkel)
 * Clustering the Human Genome (Ellis)
