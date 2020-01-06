@@ -21,8 +21,8 @@ below, otherwise contact the section leader for your domain of choice.
 
 Lecture is held on Mondays at two different times, in the same location:
 
-Monday 9:00am - 9:50am, CENTR 222 (A00)
-Monday 10:00am - 10:50am, CENTR 222 (B00)
+* Monday 9:00am - 9:50am, CENTR 222 (A00)
+* Monday 10:00am - 10:50am, CENTR 222 (B00)
 
 ### Discussion
 
