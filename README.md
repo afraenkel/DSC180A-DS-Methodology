@@ -29,31 +29,13 @@ Monday 10:00am - 10:50am, CENTR 222 (B00)
 You must attend the discussion corresponding to your chosen domain of
 inquiry. **Attendence is mandatory.**
 
-Discussion A01: 
-* W 9am-9:50am 
-* CENTR 207 
-* Quantitative Measurement of Artistic Style
-
-Discussion A02: 
-* W 9am-9:50am
-* WLH 2113 
-* Wikipedia Edit Wars
-
-Discussion A03: 
-* W 9am-9:50am
-* SDSC E145 
-* [Fair Policing and Predictive
-  Policing](https://github.com/afraenkel/DSC180A-Fair-Policing)
-  
-Discussion B01: 
-* W 10am-10:50am
-* CENTR 207 
-* Clustering the Human Genome
-
-Discussion B02: 
-* W 10am-10:50am, 
-* WLH 2206
-* [Malware and Graph Embeddings](https://github.com/afraenkel/DSC180A-Malware)
+|Section|Time|Location|Title|
+|---|---|---|---|
+|Discussion A01|W 9am-9:50am|CENTR 207|Quantitative Measurement of Artistic Style|
+|Discussion A02|W 9am-9:50a|WLH 2113|Wikipedia Edit Wars|
+|Discussion A03|W 9am-9:50a|SDSC E145|[Fair Policing and Predictive Policing](https://github.com/afraenkel/DSC180A-Fair-Policing)|
+|Discussion B01|W 10am-10:50a|CENTR 207|Clustering the Human Genome|
+|Discussion B02|W 10am-10:50am,|WLH 220|[Malware and Graph Embeddings](https://github.com/afraenkel/DSC180A-Malware)|
 
 ### Lab
 
@@ -69,7 +51,7 @@ The syllabus for the course may be found [here](https://github.com/afraenkel/DSC
 ## Course Schedule
 
 |Week|Topic: Methodology|Topic: Domain|
-|---|---|
+|---|---|---|
 |1|Introduction|Intro to domain problem|
 |2|Anatomy of a DS project|Data generating process (context)|
 |3|Handling data|Description of data|
