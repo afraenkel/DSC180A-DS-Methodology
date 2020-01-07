@@ -9,7 +9,7 @@ The course materials for each domain of inquiry is maintained by the
 domain expert. Links to materials for each domain *may* be found
 below, otherwise contact the section leader for your domain of choice.
 
-* [Wikipedia Edit Wars](https://docs.google.com/document/d/15nYvHeiXmq4yWQIaKaWv7Ucx_u1Jbp3FGpN9ku68r88/edit?usp=sharing) (Roberts)
+* [Wikipedia Edit Wars](https://github.com/KengChiChang/DSC180A-Wiki-War) (Roberts)
 * Quantitative Measure of Artistic Style (Twomey)
 * [Fair Policing and Predictive Policing](https://github.com/afraenkel/DSC180A-Fair-Policing) (Fraenkel)
 * [Clustering the Human Genome](https://github.com/ShanEllis/Genetic-Variation) (Ellis)
@@ -32,7 +32,7 @@ inquiry. **Attendence is mandatory.**
 |Section|Time|Location|Title|
 |---|---|---|---|
 |Discussion A01|W 9am-9:50am|CENTR 207|Quantitative Measurement of Artistic Style|
-|Discussion A02|W 9am-9:50a|WLH 2113|Wikipedia Edit Wars|
+|Discussion A02|W 9am-9:50a|WLH 2113|[Wikipedia Edit Wars](https://github.com/KengChiChang/DSC180A-Wiki-War)|
 |Discussion A03|W 9am-9:50a|SDSC E145|[Fair Policing and Predictive Policing](https://github.com/afraenkel/DSC180A-Fair-Policing)|
 |Discussion B01|W 10am-10:50a|CENTR 207|[Clustering the Human Genome](https://github.com/ShanEllis/Genetic-Variation)|
 |Discussion B02|W 10am-10:50am,|WLH 220|[Malware and Graph Embeddings](https://github.com/afraenkel/DSC180A-Malware)|
