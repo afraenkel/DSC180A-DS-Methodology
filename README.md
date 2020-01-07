@@ -12,7 +12,7 @@ below, otherwise contact the section leader for your domain of choice.
 * [Wikipedia Edit Wars](https://docs.google.com/document/d/15nYvHeiXmq4yWQIaKaWv7Ucx_u1Jbp3FGpN9ku68r88/edit?usp=sharing) (Roberts)
 * Quantitative Measure of Artistic Style (Twomey)
 * [Fair Policing and Predictive Policing](https://github.com/afraenkel/DSC180A-Fair-Policing) (Fraenkel)
-* Clustering the Human Genome (Ellis)
+* [Clustering the Human Genome](https://github.com/ShanEllis/Genetic-Variation) (Ellis)
 * [Malware and Graph Embeddings](https://github.com/afraenkel/DSC180A-Malware) (Fraenkel)
 
 ## Course Times and Locations
