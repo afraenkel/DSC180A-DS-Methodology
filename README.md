@@ -97,6 +97,11 @@ The syllabus for the course may be found [here](syllabus.md).
 |9|Advanced data handling|Related questions in domain|
 |10|Multilingual workflows|Project proposals|
 
+## Assignments
+
+While the course assignments for each domain differ, they all follow a
+similar template, included [here](assignment-templates.md).
+
 ## Computing Resources
 
 You are welcome to develop your work on your own computer, however
