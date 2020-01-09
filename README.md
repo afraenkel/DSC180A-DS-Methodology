@@ -88,11 +88,11 @@ The syllabus for the course may be found [here](syllabus.md).
 |---|---|---|
 |1|Introduction|Intro to domain problem|
 |2|Anatomy of a DS project|Data generating process (context)|
-|3|Handling data|Description of data|
-|4|Version control|Domain specific techniques I|
+|3|HOLIDAY|Description of data|
+|4|Handling data|Domain specific techniques I|
 |5|Workflow patterns I|Domain specific techniques II|
-|6|Workflow patterns II|Discussion of main result|
-|7|Version control and data|Standards for evaluation in domain|
+|6|Version control and data|Discussion of main result|
+|7|HOLIDAY|Standards for evaluation in domain|
 |8|Environment independence|Impacts and ethics|
 |9|Advanced data handling|Related questions in domain|
 |10|Multilingual workflows|Project proposals|
