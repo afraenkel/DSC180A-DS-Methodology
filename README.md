@@ -40,9 +40,43 @@ inquiry. **Attendence is mandatory.**
 ### Lab
 
 Lab hours are for one-on-one help with both domain experts and
-methodological experts. Unless separately scheduled with domain
-experts, lab hours are held Fridays 9:00 - 10:50 in the CSE Basement
-(B250).
+methodological experts. 
+
+#### Lab hours for the methodology 
+
+Lab hours serve two purposes: help with lecture-HW and guidance with
+the code development portion of your domain project. Methodology help
+is available anytime on Friday between 9:00-10:50 in B250/B260 in the
+CSE Basement.
+
+* Sometimes the lecture HW will *require* you to come to CSE basement
+  to complete a portion of the HW. This will be noted on the HW
+  assignment.
+  
+* You are encouraged to come *every week* to discuss and get feedback
+  on the code development for the work in your domain project. This
+  course depends on self-motivated work and you should take advantage
+  of the access to help.
+  
+* At certain points in the quarter, you will be required to check in
+  with course staff in lab to go through a code review of your
+  ETL pipeline and replication work.
+  
+#### Lab hours with domain experts
+
+Unless separately scheduled with domain experts, lab hours are held
+Fridays in the CSE Basement (B250 and B260), either from 9:00 - 10:00
+or 10:00 - 10:50.
+
+* You are encouraged to come to lab hours for domain specific
+  questions as often as possible. Friday lab hours are a perfect time
+  to come with questions about the readings or data work that is
+  assigned for the following Wednesday. A better understanding of the
+  concepts on Friday will pay dividents in productive work on your
+  project Sat-Tues.
+  
+* At various points in the quarter, you will be required to come to
+  domain lab hours to check in with your domain expert.
 
 ## Syllabus
 
