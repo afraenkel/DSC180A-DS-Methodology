@@ -42,7 +42,7 @@ inquiry. **Attendence is mandatory.**
 Lab hours are for one-on-one help with both domain experts and
 methodological experts. 
 
-#### Lab hours for the methodology 
+#### Lab hours for methodology 
 
 Lab hours serve two purposes: help with lecture-HW and guidance with
 the code development portion of your domain project. Methodology help
