@@ -10,7 +10,7 @@ domain expert. Links to materials for each domain *may* be found
 below, otherwise contact the section leader for your domain of choice.
 
 * [Wikipedia Edit Wars](https://github.com/KengChiChang/DSC180A-Wiki-War) (Roberts)
-* Quantitative Measure of Artistic Style (Twomey)
+* [Quantitative Measurement of Artistic Style](https://github.com/roberttwomey/DSC180A-Quantifying-Style) (Twomey)
 * [Fair Policing and Predictive Policing](https://github.com/afraenkel/DSC180A-Fair-Policing) (Fraenkel)
 * [Clustering the Human Genome](https://github.com/ShanEllis/Genetic-Variation) (Ellis)
 * [Malware and Graph Embeddings](https://github.com/afraenkel/DSC180A-Malware) (Fraenkel)
