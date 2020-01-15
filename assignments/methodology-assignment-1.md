@@ -1,5 +1,7 @@
 # Methodology Assignment 1
 
+## Using Remote Servers
+
 ### Due Friday Jan 17 11:59 PM
 
 The methodology assignments are small assignments (doable within the
@@ -35,9 +37,11 @@ Gradescope in a file called `server.json`:
    and save the output as a string in the `server.json` with key
    `"jump-box-info"`.
    
-2. On the jump-box server, run the command `echo ~` and saave the
+2. On the jump-box server, run the command `echo ~` and save the
    output as a string in the `server.json` with key
    `"home-directory"`.
+   
+3. Use the git command-line to clone the [methodology repository](https://github.com/afraenkel/DSC180A-DS-Methodology) into your home directory. As you work on your own projects, you will move code between your laptop and the remote server via GitHub. That way, you can seamlessly develop code on your laptop on smaller files and do larger processing on the server. (This step requires nothing to turn in).
    
 3. Launch a container using the script `launch-scipy-ml.sh` and run
    the command `uname -a`. Save the output as a string in the `server.json` with key
@@ -46,8 +50,8 @@ Gradescope in a file called `server.json`:
 4. Open a Jupyter Notebook from the URL given on the container's
    welcome screen. Save the URL as a string in `server.json` with key
    `"notebook-url"`.
-
-Upload `server.json` to Gradescope.
+   
+To shutdown the container, type `ctrl-d`. Upload `server.json` to Gradescope.
 
 Your `server.json` should look something like this:
 
