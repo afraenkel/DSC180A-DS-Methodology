@@ -43,13 +43,15 @@ For example, to download tables for the San Diego Chargers in 2014,
 
 ```
 {
-    "Teams": ["sdg"],
-    "Years": [2014, 2015, 2016]
+    "teams": ["sdg"],
+    "years": [2014, 2015, 2016],
+    "outpath": 'projectdir/data'
 }
 ```
 
-Running the function `get_data` would create 3 files with the
-following names:
+Running the function `get_data(**cfg)` on the loaded configuration
+`cfg = json.load(open('data-params.json'))` would create 3 files with
+the following names:
 ```
 data/sdg_2014.csv
 data/sdg_2015.csv
@@ -74,13 +76,8 @@ Running the function should result in 16 csv files.
 * You may find the following functions useful:
   - `json.load` for loading json files into python objects,
   - `os.mkdir` for creating directories,
-  - `os.exists` for checking if a given directory exists,
+  - `os.path.exists` for checking if a given directory exists,
   - `pd.read_html` for scraping tables off of webpages.
   
   
 You will not be getting starter code for this HW, however, the Gradescope assignments will run visible tests to check the basics of your work.
-<!-- #endregion -->
-
-```python
-
-```
