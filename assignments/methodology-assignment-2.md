@@ -45,7 +45,7 @@ For example, to download tables for the San Diego Chargers in 2014,
 {
     "teams": ["sdg"],
     "years": [2014, 2015, 2016],
-    "outpath": 'projectdir/data'
+    "outpath": "projectdir/data"
 }
 ```
 
