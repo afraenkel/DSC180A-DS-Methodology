@@ -31,7 +31,7 @@ configuration from code in the following way:
    the investigation and specify this information as parameters in a
    configuration file. For example, in `data-params.json`, specify the
    years and different teams to download statistics about.
-2. In a file `get-data.py` write a function `get_table` that takes in a team and a
+2. In a file `get_data.py` write a function `get_table` that takes in a team and a
    year, retrieves the data from the webpage, and writes the table to
    file in a directory called `data` in the same location. Write a
    second function `get_data` that reads in the desired data in
@@ -62,7 +62,7 @@ data/sdg_2016.csv
 ### To Turn In
 
 Write a configuration file `data-params.json` and python code in the
-file `get-data.py` to download and save all 'Schedule and Game
+file `get_data.py` to download and save all 'Schedule and Game
 Results' tables for the 49ers and Packers between 2012 and 2019 inclusive, using
 the configuration file. Follow the example above for guidance.
 
