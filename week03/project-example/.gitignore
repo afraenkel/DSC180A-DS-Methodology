@@ -1,0 +1,5 @@
+# don't check-in data
+data
+
+# python files
+__pycache__
