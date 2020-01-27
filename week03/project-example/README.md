@@ -9,6 +9,31 @@
 
 ## Description of Contents
 
+The project consists of these portions:
+```
+PROJECT
+├── .env
+├── .gitignore
+├── README.md
+├── config
+│   ├── data-params.json
+│   └── test-params.json
+├── data
+│   ├── log
+│   ├── out
+│   ├── raw
+│   └── temp
+├── lib
+├── notebooks
+│   └── .gitkeep
+├── references
+│   └── .gitkeep
+├── requirements.txt
+├── run.py
+└── src
+    └── etl.py
+```
+
 ### `src`
 
 * `etl.py`: Library code that executes tasks useful for getting data.

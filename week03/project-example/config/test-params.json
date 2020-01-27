@@ -1,5 +1,5 @@
 {
     "years": [2012], 
     "teams": ["sfo"], 
-    "outpath": "data/test/"
+    "outdir": "data/test/"
 }

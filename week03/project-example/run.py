@@ -2,9 +2,10 @@
 
 import sys
 import json
+import shutil
 
 
-import sys.path.insert(0, 'src') # add library code to path
+sys.path.insert(0, 'src') # add library code to path
 from etl import get_data
 
 DATA_PARAMS = 'config/data-params.json'
@@ -19,6 +20,12 @@ def load_params(fp):
 
 
 def main(targets):
+
+    # make the clean target
+    if 'clean' in targets:
+        shutil.rmtree('data/temp',ignore_errors=True)
+        shutil.rmtree('data/out',ignore_errors=True)
+        shutil.rmtree('data/test',ignore_errors=True)
 
     # make the data target
     if 'data' in targets:
