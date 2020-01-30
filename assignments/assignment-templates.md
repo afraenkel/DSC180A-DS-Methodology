@@ -85,7 +85,21 @@ Statistically summarize the relevant, cleaned attributes and derived features (e
 
 ### Part 2
 
-Develop code to clean data (as defined and justified in Part 1), create the features for the replication, and compute the statistics for the report.
+Develop code to clean data (as defined and justified in Part 1),
+create the features for the replication, and compute the statistics
+for the report. The code that you write must conform to the project
+templates covered in lecture.
+
+In particular, your project should have a `run.py` with the following
+targets:
+1. `data` creates the data needed for analysis.
+2. `process` cleans and prepares the data for analysis (e.g. cleaning
+   and feature creation).
+3. `data-test` ingests a small amount of *test data* (that `process`
+   can then process).
+
+The code will be tested by running `python run.py data-test process`
+
 
 Assignment #3: Result Replication
 =================================
