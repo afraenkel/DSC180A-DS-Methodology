@@ -97,6 +97,21 @@ The syllabus for the course may be found [here](syllabus.md).
 |9|Advanced data handling|Related questions in domain|
 |10|Multilingual workflows|Project proposals|
 
+## Due Dates
+
+The follow table includes course-wide assignments. Notably absents are
+deadlines for discussion section assignments! These are your own
+responsibility to keep track of!
+
+|Assignment|Due Date|
+|---|---|
+|Methodology Assignment 1|Friday Jan 17 11:59PM|
+|Methodology Assignment 2|Friday Jan 24 11:59PM|
+|Assignment 1|Friday Jan 24 11:59PM|
+|Methodology Assignment 3|No Due Date|
+|Methodology Assignment 4|Sunday, Feb 9 11:59PM|
+|**Assignment 2**|Friday, Feb 14 11:59PM|
+
 ## Assignments
 
 While the course assignments for each domain differ, they all follow a
