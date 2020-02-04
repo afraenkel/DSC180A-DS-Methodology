@@ -8,7 +8,7 @@
 
 * Reorganize your domain project to conform to the project-template
   described in Lecture 03. Use the [example
-  project](../week03/project-example) as a guide.
+  project](../week04/project-example) as a guide.
   
 * If you have not done so already, create a private github repository
   for your project. You will be turning in the code for assignment-2
