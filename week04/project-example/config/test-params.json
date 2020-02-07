@@ -1,4 +1,5 @@
 {
+    "inpath": "test/testdata/test.csv",
     "years": [2012], 
     "teams": ["sfo"], 
     "outdir": "data/test/"
