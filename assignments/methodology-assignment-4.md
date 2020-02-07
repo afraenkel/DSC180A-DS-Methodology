@@ -1,4 +1,4 @@
-# Methodology Assignment 3
+# Methodology Assignment 4
 
 ---
 
@@ -10,4 +10,5 @@
   `Demo.ipynb`. Tweak the function so that it maintains a buffer of a
   fixed size of `buffsize` words (that is, the list `buff` should
   never have more than `buffsize` elements). All other function
-  behavior should remain the same.
+  behavior should remain the same. Submit this function is a file
+  called `methodology_hw_4.py`
