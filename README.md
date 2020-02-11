@@ -110,7 +110,8 @@ responsibility to keep track of!
 |**Assignment 1**|Friday Jan 24 11:59PM|
 |Methodology Assignment 3|No Due Date|
 |Methodology Assignment 4|Sunday, Feb 9 11:59PM|
-|**Assignment 2**|Friday, Feb 14 11:59PM|
+|Methodology Assignment 5|Friday, Feb 14 11:59PM|
+|**Assignment 2**|Sunday, Feb 16 11:59PM|
 
 ## Assignments
 
