@@ -52,6 +52,26 @@ project. The proposal will consist of the following parts:
   schedule is 6 weeks to allow for tidying-up and work on
   communication, as well as for a few set-backs).
 
+### Proposal Content Checklist
+
+A thorough proposal should answer the following questions:
+* What set of problems are being investigated? (Or what are you
+  proposing to build, and what problem does that solve)?
+* How do these problems relate to the domain replication project?
+  - Has previous work attempted to answer these questions?
+  - If not, why are these questions considered interesting? If so,
+    how did they fail?
+  - In what way does your investigation address a deficiency in the
+    replication project?
+* What are the specific methods that will be used to attempt to solve
+  (a subset of) the problems in your proposal? Be specific about the
+  data and techniques you plan to use.
+* What is the project output? Is it a paper, website, work of art,
+  tool? If your project *analyzes* data, what ways do you plan on
+  communicating the analysis? If your project *generates* data, you
+  still need an analysis of the generated data it produces!
+* For the proposed schedule, look to the domain schedule as a guide.
+
 ## Elevator Pitch (Due Wed Mar 11)
 
 You will need to write and present an [Elevator
