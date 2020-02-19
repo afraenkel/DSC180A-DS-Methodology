@@ -48,9 +48,8 @@ project. The proposal will consist of the following parts:
   for the investigation. Specifying the project output is also
   required (a report/paper, website, a product that does something).
 * A proposed 6 week schedule with weekly goals and tasks for executing
-  the proposal. Look to the wednesday domain schedule as a guide. (The
-  schedule is 6 weeks to allow for tidying-up and work on
-  communication, as well as for a few set-backs).
+  the proposal. (The schedule is 6 weeks to allow for tidying-up and
+  work on communication, as well as for a few set-backs).
 
 ### Proposal Content Checklist
 
@@ -70,7 +69,8 @@ A thorough proposal should answer the following questions:
   tool? If your project *analyzes* data, what ways do you plan on
   communicating the analysis? If your project *generates* data, you
   still need an analysis of the generated data it produces!
-* For the proposed schedule, look to the domain schedule as a guide.
+* For the proposed schedule, look to the domain schedule (result
+  replication) as a guide.
 
 ## Elevator Pitch (Due Wed Mar 11)
 

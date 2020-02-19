@@ -112,6 +112,10 @@ responsibility to keep track of!
 |Methodology Assignment 4|Sunday, Feb 9 11:59PM|
 |Methodology Assignment 5|Friday, Feb 14 11:59PM|
 |**Assignment 2**|Sunday, Feb 16 11:59PM|
+|Group Formation|Wed Feb 26|
+|Proposal|Sun Mar 8 11:59PM|
+|Proposal Presentation|Wed Mar 11|
+|**Assignment 3**|Fri Mar 13 11:59PM|
 
 ## Assignments
 
