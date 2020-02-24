@@ -1,0 +1,23 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Score,Score,Offense,Offense,Offense,Offense,Offense,Defense,Defense,Defense,Defense,Defense,Expected Points,Expected Points,Expected Points
+,Week,Day,Date,Unnamed: 3_level_1,Unnamed: 4_level_1,Unnamed: 5_level_1,OT,Rec,Unnamed: 8_level_1,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
+0,1,Sun,September 9,4:25PM ET,boxscore,W,,1-0,@,Green Bay Packers,30.0,22.0,22.0,377.0,191.0,186.0,,21.0,324.0,279.0,45.0,1.0,11.61,-2.61,-0.57
+1,2,Sun,September 16,8:30PM ET,boxscore,W,,2-0,,Detroit Lions,27.0,19.0,24.0,349.0,201.0,148.0,1.0,15.0,296.0,214.0,82.0,1.0,13.03,-1.77,-3.74
+2,3,Sun,September 23,1:05PM ET,boxscore,L,,2-1,@,Minnesota Vikings,13.0,24.0,19.0,280.0,191.0,89.0,3.0,25.0,344.0,198.0,146.0,2.0,-7.24,-7.36,4.51
+3,4,Sun,September 30,1:03PM ET,boxscore,W,,3-1,@,New York Jets,34.0,0.0,26.0,381.0,134.0,247.0,,9.0,145.0,100.0,45.0,4.0,10.63,31.93,-4.75
+4,5,Sun,October 7,4:25PM ET,boxscore,W,,4-1,,Buffalo Bills,45.0,3.0,29.0,621.0,310.0,311.0,1.0,10.0,204.0,115.0,89.0,2.0,36.62,12.87,-7.92
+5,6,Sun,October 14,4:23PM ET,boxscore,L,,4-2,,New York Giants,3.0,26.0,14.0,314.0,234.0,80.0,3.0,19.0,342.0,193.0,149.0,,-16.67,-4.17,-3.66
+6,7,Thu,October 18,8:29PM ET,boxscore,W,,5-2,,Seattle Seahawks,13.0,6.0,18.0,313.0,138.0,175.0,1.0,13.0,251.0,115.0,136.0,1.0,-0.14,8.42,2.18
+7,8,Mon,October 29,8:40PM ET,boxscore,W,,6-2,@,Arizona Cardinals,24.0,3.0,15.0,317.0,204.0,113.0,,16.0,265.0,258.0,7.0,1.0,9.14,8.84,2.3
+8,9,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+9,10,Sun,November 11,4:25PM ET,boxscore,T,OT,6-2-1,,St. Louis Rams,24.0,24.0,25.0,341.0,158.0,183.0,,27.0,458.0,299.0,159.0,1.0,9.53,-17.12,4.71
+10,11,Mon,November 19,8:40PM ET,boxscore,W,,7-2-1,,Chicago Bears,32.0,7.0,18.0,353.0,232.0,121.0,,12.0,143.0,58.0,85.0,2.0,13.46,14.69,-1.65
+11,12,Sun,November 25,4:25PM ET,boxscore,W,,8-2-1,@,New Orleans Saints,31.0,21.0,18.0,375.0,231.0,144.0,2.0,19.0,290.0,231.0,59.0,2.0,5.41,15.81,-13.01
+12,13,Sun,December 2,1:00PM ET,boxscore,L,OT,8-3-1,@,St. Louis Rams,13.0,16.0,18.0,339.0,191.0,148.0,1.0,16.0,293.0,208.0,85.0,,-11.85,11.73,-4.41
+13,14,Sun,December 9,4:05PM ET,boxscore,W,,9-3-1,,Miami Dolphins,27.0,13.0,20.0,321.0,166.0,155.0,,17.0,227.0,133.0,94.0,1.0,10.18,3.94,0.34
+14,15,Sun,December 16,8:30PM ET,boxscore,W,,10-3-1,@,New England Patriots,41.0,34.0,19.0,388.0,208.0,180.0,2.0,32.0,520.0,425.0,95.0,4.0,1.99,1.63,5.22
+15,16,Sun,December 23,8:31PM ET,boxscore,L,,10-4-1,@,Seattle Seahawks,13.0,42.0,17.0,313.0,231.0,82.0,2.0,22.0,346.0,170.0,176.0,1.0,-1.44,-19.69,-5.09
+16,17,Sun,December 30,4:25PM ET,boxscore,W,,11-4-1,,Arizona Cardinals,27.0,13.0,20.0,407.0,278.0,129.0,,11.0,262.0,207.0,55.0,2.0,12.21,8.46,-4.49
+17,,,Playoffs,,,,,,,,,,,,,,,,,,,,,,
+18,Division,Sat,January 12,8:25PM ET,boxscore,W,,12-4-1,,Green Bay Packers,45.0,31.0,29.0,579.0,256.0,323.0,1.0,20.0,352.0,248.0,104.0,2.0,25.88,-16.0,5.15
+19,Conf. Champ.,Sun,January 20,3:05PM ET,boxscore,W,,13-4-1,@,Atlanta Falcons,28.0,24.0,21.0,373.0,224.0,149.0,1.0,27.0,477.0,396.0,81.0,2.0,16.62,-15.22,-1.23
+20,SuperBowl,Sun,February 3,6:31PM ET,boxscore,L,,13-5-1,N,Baltimore Ravens,31.0,34.0,23.0,468.0,286.0,182.0,2.0,21.0,367.0,274.0,93.0,1.0,8.82,-9.33,-1.8

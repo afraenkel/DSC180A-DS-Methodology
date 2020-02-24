@@ -1,0 +1,6 @@
+{
+    "indir": "test/testdata/",
+    "years": [2012], 
+    "teams": ["sfo"], 
+    "outdir": "data/test/raw"
+}

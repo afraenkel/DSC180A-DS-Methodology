@@ -1,0 +1,4 @@
+{
+    "indir": "data/test/raw",
+    "outdir": "data/test/cleaned"
+}
